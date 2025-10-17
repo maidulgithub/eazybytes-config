@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to EazyBank cards related Docker APIs "
+  message: "Welcome to EazyBank cards related Local APIs "
   contactDetails:
     name: "Smitha Ray - DEV Lead"
     email: "smitha@eazybank.com"
