@@ -7,7 +7,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Welcome to EazyBank loans related PRODUCTIONN APIs "
+  message: "Welcome to EazyBank loans related PROD refresh APIs "
   contactDetails:
     name: "Smitha Ray - PROD Lead"
     email: "smitha@eazybank.com"
